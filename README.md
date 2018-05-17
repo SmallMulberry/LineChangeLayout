@@ -1,5 +1,14 @@
     # LineChangeLayout
     文字列表集合自动换行控件，可自适应文字长度。
+    
+    
+    repositories {
+			maven { url 'https://jitpack.io' }
+	}
+    
+    dependencies {
+	        compile 'com.github.SmallMulberry:LineChangeLayout:1.3'
+	}
 
     ![](https://github.com/SmallMulberry/LineChangeLayout/blob/master/LineChangeLayout/src/main/res/drawable/yanshi.png)
 
