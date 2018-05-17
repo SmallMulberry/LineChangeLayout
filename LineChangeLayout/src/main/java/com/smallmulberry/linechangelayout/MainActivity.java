@@ -49,7 +49,6 @@ public class MainActivity extends AppCompatActivity {
     private void xmlgetLineChangeLayout(){
         //LineChangeLayout
         main_lcl = (LineChangeLayout) findViewById(R.id.main_lcl);
-
         main_lcl.setItemBgStyle(R.drawable.hui,R.drawable.hong);  //item默认背景样式及点亮之后样式
         //默认及点亮之后文字颜色,文字大小，左上右下Padding
         main_lcl.setItemTextStyle(R.color.colorAccent,R.color.colorPrimary,25,20,5,20,5);

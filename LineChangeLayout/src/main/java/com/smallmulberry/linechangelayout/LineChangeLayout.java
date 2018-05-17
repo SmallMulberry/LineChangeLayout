@@ -29,8 +29,8 @@ public class LineChangeLayout extends LinearLayout {
 
 
     //默认背景r文件
-    private int drawableR= R.drawable.heiyuanxiaokuang;
-    private int drawableStarR= R.drawable.redyuanxiaokuang;
+    private int drawableR= R.drawable.hui;
+    private int drawableStarR= R.drawable.hong;
     //默认左上右下内边距kl
     private int itemLeftPadding=10;
     private int itemTopPadding=10;
