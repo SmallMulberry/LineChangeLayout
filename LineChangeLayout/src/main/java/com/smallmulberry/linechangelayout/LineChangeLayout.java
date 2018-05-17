@@ -53,10 +53,10 @@ public class LineChangeLayout extends LinearLayout {
     //监听最后一个按钮
     private boolean ifMonitorLastItem=false;
 
-    interface LineCallBack {
+    public interface LineCallBack {
         void lineOnclick(int i, boolean ifCheck);
     }
-    interface LineLongCallBack{
+    public interface LineLongCallBack{
         void lineOnLongclick(int i, boolean ifCheck);
     }
 
