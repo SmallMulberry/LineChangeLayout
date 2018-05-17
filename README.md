@@ -1,6 +1,7 @@
     # LineChangeLayout
     文字列表集合自动换行控件，可自适应文字长度。
 
+    ![](https://github.com/SmallMulberry/LineChangeLayout/blob/master/LineChangeLayout/src/main/res/drawable/yanshi.png)
 
     LineChangeLayout 目前支持的父布局有 RelativeLayout,ScrollView,LinearLayout
 
