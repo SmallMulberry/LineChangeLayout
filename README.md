@@ -2,6 +2,7 @@
     文字列表集合自动换行控件，可自适应文字长度。
 
 
+    LineChangeLayout 目前支持的父布局有 RelativeLayout,ScrollView,LinearLayout
 
     //构造方法 context,数据集合,单击item回调,长按item回调
     public LineChangeLayout(Context context, List<Line> list, LineCallBack lineCallBack, LineLongCallBack lineLongCallBack);
